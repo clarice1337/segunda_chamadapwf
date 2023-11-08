@@ -1,0 +1,13 @@
+.cores {
+    font-size: 200px;
+    background: linear-gradient(to right,
+       red 15%,
+       green 15%,green 50%,
+       red 50%, red 85%,
+       green 85%
+     );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+     font-family: Arial;
+ }

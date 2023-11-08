@@ -1,0 +1,14 @@
+.lista{
+    background-color: #e8e8e8;
+    list-style: none;
+   
+}
+
+.li:hover{
+    background-color: #dcdcdc;
+    text-decoration: none;
+}
+.link{
+    color: black;
+    text-decoration: none;
+}

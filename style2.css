@@ -1,0 +1,21 @@
+.titulo1{
+    text-align: center;
+    letter-spacing: 3px;
+    
+}
+
+.opçao1{
+    width: 40%;
+    background-color: black;
+    color: white;
+    text-align: left;
+    font-style: italic;
+}
+
+.opçao2{
+    width: 60%;
+    background-color: black;
+    color: white;
+    text-align: left;
+    font-style: italic;
+}
